@@ -2,6 +2,7 @@
 layout : default
 title : Friends
 ---
+
 # friends page
 
 Berikut Teman-Teman saya di kelas : 
@@ -15,6 +16,7 @@ Berikut Teman-Teman saya di kelas :
 - [Amirullah](https://amirullah310.github.io/)
 - [Ananda Putri Nabilla](https://anandaaputrinabilla.github.io/)
 - [Anggi Sya'ban Nabila Batu Bara](https://angginabilabatubara.github.io/)
+- [BALQIS MISYIA](https://balqismisyia.github.io/)
 - [Darmawan Sahputra](https://darmawansahputra1.github.io/)
 - [Dinda Eliza](https://dindaelz06.github.io/)
 - [Farid Haiqal](https://fared08.github.io/)
@@ -28,3 +30,4 @@ Berikut Teman-Teman saya di kelas :
 - [Mutyara Assyifa](https://mutyaraassyifa.github.io/)
 - [Najwa Al Fajra](https://najwaal-fajra.github.io/)
 - [Nursita](https://nursitaaa.github.io/)
+- [Syahan Alfatih](https://syahanalfatih.github.io/)
