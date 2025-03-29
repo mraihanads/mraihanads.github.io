@@ -1,6 +1,3 @@
-/* .last_name {
-    color: #009CFF;
-} */
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
@@ -9,54 +6,24 @@ body {
   padding: 10px;
 }
 
-/* Navigation Styles - Modified for Hamburger on All Devices */
+/* Navigation Styles */
 nav {
   background-color: #009CFF;
   padding: 12px;
   margin-bottom: 25px;
   margin-left: -10px;
   margin-right: -10px;
-  position: relative;
-  display: flex;
-  justify-content: flex-end;
-}
-
-.menu-toggle {
-  display: block;
-  background: none;
-  border: none;
-  font-size: 24px;
-  cursor: pointer;
-  color: black;
-  padding: 8px;
-  z-index: 101;
-}
-
-.nav-links {
-  display: none;
-  position: absolute;
-  top: 100%;
-  right: 0;
-  background-color: #009CFF;
-  width: 200px;
-  padding: 10px;
-  z-index: 100;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.nav-links.active {
-  display: block;
 }
 
 nav a {
-  display: block;
+  display: inline-block;
   padding: 8px 16px;
+  margin-right: 8px;
   color: black;
   font-weight: 500;
   border-radius: 4px;
   transition: all 0.3s ease;
   text-decoration: none;
-  margin: 4px 0;
 }
 
 nav a:hover {
@@ -70,7 +37,6 @@ nav a.current {
   background-color: #1589FF;
 }
 
-/* Existing Styles Below - Remain Unchanged */
 .friendspage ol {
   list-style: none;
   padding: 0;
@@ -117,7 +83,7 @@ nav a.current {
   background-color: #66B4FF;
 }
 
-/* Profile Styles */
+/* Gaya untuk profil */
 .profile-section {
   max-width: 800px;
   margin: 0 auto;
@@ -183,13 +149,23 @@ nav a.current {
   font-weight: bold;
 }
 
-/* Responsive Adjustments */
+/* Responsif */
 @media (max-width: 600px) {
   .profile-section {
     padding: 15px;
   }
   .profile-intro, .profile-goals {
     padding: 15px;
+  }
+}
+@media (max-width: 600px) {
+  nav {
+    flex-direction: column;
+    gap: 8px;
+  }
+  nav a {
+    display: flex;
+    margin-right: 0;
   }
 }
 
