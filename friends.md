@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Friends
+permalink: /friends/
 ---
 
 # Friends Page
