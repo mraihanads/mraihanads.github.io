@@ -1,11 +1,9 @@
 
-# Informasi Dasar Situs
 title: Muhammad Raihan
-description: Personal blog powered by Jekyll and GitHub Pages
+description: website Raihan
 url: 'https://mraihanads.github.io'  # URL utama situs
 baseurl: ''  
 
-# Info Penulis
 author:
   name: Muhammad Raihan
   email: mraihanads@gmail.com
