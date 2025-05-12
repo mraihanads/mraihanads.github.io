@@ -166,7 +166,7 @@ nav a.current {
   background-color: #fff;
   padding: 32px;
   border-radius: 16px;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 6px 20px rgba(180, 82, 82, 0.1);
 }
 
 .profile-intro {
@@ -179,7 +179,7 @@ nav a.current {
 
 .profile-intro p {
   font-size: 1.2em;
-  color: #333;
+  color: #000000;
 }
 
 .profile-details {
@@ -188,7 +188,7 @@ nav a.current {
 
 .profile-details h2 {
   font-size: 1.6em;
-  color: #111;
+  color: #000000;
   margin-bottom: 12px;
   border-bottom: 2px solid #eee;
   padding-bottom: 8px;
@@ -196,6 +196,7 @@ nav a.current {
 
 .profile-details ul {
   list-style: none;
+  color: black;
   padding: 0;
 }
 
@@ -223,7 +224,7 @@ nav a.current {
 
 .profile-goals h2 {
   margin-top: 0;
-  color: #111;
+  color: #000000;
 }
 
 .last_name {
