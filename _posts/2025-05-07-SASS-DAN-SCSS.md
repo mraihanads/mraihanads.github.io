@@ -18,12 +18,13 @@ Pembahasan tentang **SASS** dan **SCSS**, yang merupakan preprocessor CSS modern
 
 #### Perbedaan SASS dan SCSS
 
-| Fitur                 | `.sass` (SASS)                     | `.scss` (SCSS)                    |
-|----------------------|------------------------------------|-----------------------------------|
+```html
+| Fitur                | `.sass` (SASS)                     | `.scss` (SCSS)                       |
+|----------------------|------------------------------------|--------------------------------------|
 | Gaya penulisan       | Tanpa `{}` dan `;` (indentasi)     | Menggunakan `{}` dan `;` seperti CSS |
-| Kompatibel dengan CSS| Tidak                              | Ya                                |
-| Digunakan saat ini   | Kurang populer                     | Lebih umum digunakan              |
-
+| Kompatibel dengan CSS| Tidak                              | Ya                                   |
+| Digunakan saat ini   | Kurang populer                     | Lebih umum digunakan                 |
+```
 
 ---
 
